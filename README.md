@@ -12,7 +12,7 @@ A simple, responsive e-commerce web application built with ASP.NET Core and Boot
 - C#
 - .NET / ASP.NET Core (MVC)
 - Bootstrap
-- Entity Framework Core / SQL Server *(agar database use kiya hai to isay rakhein, warna remove kar dein)*
+- Entity Framework Core / SQL Server
 
 ## How to Run
 1. Clone the repository:
