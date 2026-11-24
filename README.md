@@ -17,4 +17,4 @@ A simple, responsive e-commerce web application built with ASP.NET Core and Boot
 ## How to Run
 1. Clone the repository:
    ```bash
-   git clone [https://github.com/Muhammad-AbdurRahman-201/Online-Sore.git](https://github.com/Muhammad-AbdurRahman-201/Online-Sore.git)
+https://github.com/Muhammad-AbdurRahman-201/Online-Sore.git)
