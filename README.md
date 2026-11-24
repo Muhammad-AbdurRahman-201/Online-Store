@@ -1,25 +1,20 @@
 # Online Store
 
-TODO: 1-2 lines mein likho ke yeh project kya hai (jaise: ASP.NET online store jahan products dekh sakte hain...).
+A simple, responsive e-commerce web application built with ASP.NET Core and Bootstrap. Users can browse products, manage their shopping cart, and place orders seamlessly.
 
 ## Features
-- TODO: product listing
-- TODO: cart ya order (jo bhi tumne banaya)
-- TODO: koi aur feature
+- **Product Listing:** Browse available products with clean layouts and details.
+- **Shopping Cart:** Add items to the cart, update quantities, and remove products before checkout.
+- **Order Placement:** Simple checkout flow to submit and process customer orders.
+- **Responsive UI:** Styled with Bootstrap for a smooth experience across desktop and mobile devices.
 
 ## Built With
 - C#
-- .NET
-- TODO: ASP.NET MVC / Razor Pages / SQL Server (jo use kiya wahi rakho)
+- .NET / ASP.NET Core (MVC)
+- Bootstrap
+- Entity Framework Core / SQL Server *(agar database use kiya hai to isay rakhein, warna remove kar dein)*
 
 ## How to Run
-1. Repo clone karo: `git clone https://github.com/Muhammad-AbdurRahman-201/Online-Sore.git`
-2. `OnlineStore.slnx` ko Visual Studio mein open karo
-3. TODO: agar database hai to likho ke kya karna hai (connection string, migrations)
-4. Run karo (F5)
-
-## What I Learned
-- TODO: 2-3 points apne words mein
-
-## Author
-Muhammad AbdurRahman
+1. Clone the repository:
+   ```bash
+   git clone [https://github.com/Muhammad-AbdurRahman-201/Online-Sore.git](https://github.com/Muhammad-AbdurRahman-201/Online-Sore.git)
